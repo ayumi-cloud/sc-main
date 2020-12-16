@@ -166,3 +166,134 @@ The server settings target IIS7+ where replacement config is available for IIS8 
   
 
 === TO DO ===
+
+
+
+
+
+
+
+
+
+## Reporting a Vulnerability 💥
+
+We strive to make the code accessible to a wide audience of beginner and experienced users.
+
+We welcome bug reports, false positive alert reports, evasions, usability issues, and suggestions for new detections. Submit these types of non-vulnerability related issues via Github.
+
+Please include your installed version and the relevant portions of your audit log.
+
+False negative or common bypasses should [create an issue](https://github.com/ayumi-cloud/sc-main/issues/new) so they can be addressed.
+
+Do this before submitting a vulnerability:
+
+1) Verify that you have the latest version of Summer CMS.
+2) Validate which Paranoia Level this bypass applies to. If it works in PL4, please send us an email.
+3) If you detected anything that causes unexpected behavior of the engine via manipulation of existing provided rules, please send it by email.
+
+We are happy to work with the community to provide CVE identifiers for any discovered security issues if requested.
+
+If in doubt, feel free to reach out to us!
+
+## Code of Conduct 💯
+
+In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/sc-main/blob/master/CODE_OF_CONDUCT.md).
+
+## For Future 🔮
+
+Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/ayumi-cloud/sc-main/projects) for a list of things to be done.
+
+## Browser Support ✅
+
+The legal module has been tested in the following browsers:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
+      9+
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
+      ✖ (1)
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
+      ✖ (2)
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
+      3+
+    </td>
+  </tr>
+</table>
+
+### Notes
+
+(1) Microsoft announced on 17 August that Edge Legacy will have its life support switched off on 9 March 2021, Summer CMS will support Edge Chromium only.
+
+(2) Internet Explorer version 1-11, Summer CMS will not support due to only supporting `Evergreen` brwosers.
+
+For a full list of browser support with Summer CMS, see here: [Browser Support](https://github.com/ayumi-cloud/sc-main/blob/main/docs/browser_support.md).
+
+## Changelog 🏆
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+
+## Contributions, Feature Requests and Feedback ✨
+
+We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
+
+This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
+
+- Read the current content and help us fix any spelling mistakes or grammatical errors.
+- Choose an existing [issue](https://github.com/ayumi-cloud/sc-legal-module/issues) on GitHub and submit a pull request to fix it.
+- Open a new issue to report an opportunity for improvement.
+
+If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
+
+**Note:** Please use Unit Testing and Coding Best Practices in order to have a valid pull request 😉
+
+Patches and pull requests are encouraged. All code should follow the [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/) style guidelines. **Please include unit tests whenever possible!**
+
+### PSR ♻️
+
+This legal module uses some PSR standards to be the most interoperable possible:
+
+- [PSR-6](https://www.php-fig.org/psr/psr-6/) Caching Interface.
+- [PSR-7](https://www.php-fig.org/psr/psr-7/) Standard interfaces to represent http requests, responses and uris.
+- [PSR-17](https://www.php-fig.org/psr/psr-17/) Standard factories to create PSR-7 objects.
+- [PSR-18](https://www.php-fig.org/psr/psr-18/) Standard interface to send a http request and return a response.
+
+We also suggest using Cross-browser testing provided by BrowserStack (*) where a real-browser can't be used in-house.
+
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser-stack.png"></p>
+
+
+
+
+
