@@ -287,7 +287,7 @@ If you find any bugs in the code or have any improvements in mind then feel free
 
 Patches and pull requests are encouraged. All code should follow the [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/) style guidelines. **Please include unit tests whenever possible!**
 
-### PSR ♻️
+## PSR ♻️
 
 This legal module uses some PSR standards to be the most interoperable possible:
 
@@ -300,15 +300,35 @@ We also suggest using Cross-browser testing provided by BrowserStack (*) where a
 
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser-stack.png"></p>
 
+## Semantic Versioning 🎁
 
+The Summer CMS and all modules use: [Semantic Versioning](https://semver.org/).
 
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/semver.png"></p>
 
+Semantic Versioning is a 3-component number in the format of `X.Y.Z` where:
 
+- X stands for a major version.
+- Y stands for a minor version.
+- Z stands for a patch.
 
+The goal of Semantic Versioning is to bring some sanity to the management of rapidly moving software release targets. As discussed above, 3 numbers i.e, `Major`, `Minor` and `Patch` are required to identify a software version. For example, if we take version `5.12.2`, then it has a `major` version of 5, a `minor` version of 12 and a `patch` version of 2.
 
+Below are some scenarios when Summer CMS creates a new version release:
 
+- Bump the value of X when breaking the existing API.
+- Bump the value of Y when implementing new features in a backward-compatible way.
+- Bump the value of Z when fixing bugs.
 
+Pre-release metadata is identified by appending a hyphen to the end of the Semantic Versioning sequence. Thus a pre-release for version 1.0.0 could be `1.0.0-alpha.1`. Then if another build is needed, it would become `1.0.0-alpha.2` and so on. Note that names cannot contain leading zeros, but hyphens are allowed in names for pre-release identifiers.
 
+Summer CMS uses the following pre-release metadata:
+
+| Version     | Description        |
+| ----------- | ------------------ |
+| 3.3.x-aplha | The alpha phase of the release life cycle is the first phase of software testing. |
+| 3.3.x-beta  | The beta phase follows after the alpha phase. A Beta phase generally begins when the software is feature complete but likely to contain a number of known or unknown bugs. |
+| 3.3.x-rc    | A release candidate (RC), is a beta version with potential to becoming a stable product and is ready to release unless significant bugs emerge. |
 
 ## Copyright and License 📄
 
