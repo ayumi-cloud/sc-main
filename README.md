@@ -217,43 +217,43 @@ The legal module has been tested in the following browsers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
       9+
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
       ✖ (1)
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
       ✖ (2)
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/master/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
+      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
       3+
     </td>
   </tr>
