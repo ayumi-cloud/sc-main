@@ -1,6 +1,6 @@
 # Codename: Summer CMS (our OCMS update proposal)
 
-## Table of Contents
+## Table of Contents 📑
 
 |-- x
   |-- x
