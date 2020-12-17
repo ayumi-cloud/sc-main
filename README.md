@@ -59,13 +59,13 @@ xxx
 
 ## Requirements 🚩
 
-![PHP](https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/php8.png)
-
 This library has been optimized to work with php 7.4.x and 8.x. versions - we recommend upgrading from any lower php version.
 
 ### PHP 7.4.x Install Instructions
 
 - PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/ayumi-cloud/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
+
+![PHP](https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/php8.png)
 
 ### PHP 8.x Install Instructions
 
