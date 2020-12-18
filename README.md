@@ -77,9 +77,11 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 ### PHP 7.4.x Install Instructions
 
+![PHP74](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/php74.jpg)
+
 - PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/ayumi-cloud/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
 
-![PHP](https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/php8.png)
+![PHP8](https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/php8.png)
 
 ### PHP 8.x Install Instructions
 
