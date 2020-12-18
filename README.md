@@ -76,6 +76,15 @@ xxx
 
 
 
+
+
+
+
+
+## Naming Prefix ✒️
+
+**Summer CMS uses the `sc-` naming prefix to advoid conflicts.**
+
 ## Requirements 🚩
 
 This module has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
