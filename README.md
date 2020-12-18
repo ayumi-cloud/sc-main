@@ -91,8 +91,6 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 - PHP 8.x setup instructsions found for Windows 10 here: https://github.com/ayumi-cloud/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
 
-![laravel-logo](https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/laravel.png)
-
 ### Laravel LTS
 
 ![laravel](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/laravel.png)
