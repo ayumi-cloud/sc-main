@@ -95,9 +95,11 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 ### Laravel LTS
 
+![laravel](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/laravel.png)
+
 - Laravel 6.0 LTS (we currently use the latest LTS versions, due to the community consensus).
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/laravel-history.png"></p>
+#### Notes
 
 - Laravel 6.0 LTS to use [Laravel Passport](https://laravel.com/docs/6.x/passport).
 
