@@ -377,7 +377,7 @@ Summer CMS uses the following pre-release metadata:
 
 ## Copyright and License 📄
 
-<p align="left"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/buttons/mit.svg"></p>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This is free software, licensed under the MIT, Open Source Initiative.
 
