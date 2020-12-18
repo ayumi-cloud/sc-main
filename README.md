@@ -1,5 +1,16 @@
 # Codename: Summer CMS (our OCMS update proposal)
 
+
+---------
+
+  WARNING CURRENTLY BEING WRITTEN
+  
+---------
+  
+  
+  
+  
+  
 ## Table of Contents 📑
 
 |-- x
