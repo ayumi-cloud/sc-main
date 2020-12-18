@@ -62,7 +62,7 @@ xxx
 
 ## Requirements 🚩
 
-This library has been optimized to work with php 7.4.x and 8.x. versions - we recommend upgrading from any lower php version.
+This module has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
 
 ### PHP 7.4.x Install Instructions
 
