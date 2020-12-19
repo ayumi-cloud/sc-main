@@ -54,8 +54,8 @@ Over years we have coded and created well over a hundred pull requests (under va
           <td><h1><a href="https://github.com/ayumi-cloud/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
-            <td></td>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></td>
+          <td><h1><a href="https://github.com/ayumi-cloud/sc-parser-module">Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
