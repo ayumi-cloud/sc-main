@@ -51,7 +51,7 @@ Over years we have coded and created well over a hundred pull requests (under va
     <tbody>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></td>
-            <td>[Security Module](https://github.com/ayumi-cloud/sc-security-module) - Enhanced security features including firewalls, analytics, file watcher, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
+          <td><h1><a href="https://github.com/ayumi-cloud/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
