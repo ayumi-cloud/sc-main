@@ -44,14 +44,14 @@ Over years we have coded and created well over a hundred pull requests (under va
 <table>
     <thead>
         <tr>
-            <th>Link</th>
+            <th>Module</th>
             <th>Description</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
-            <td>xxx</td>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></td>
+            <td>[Security Module](https://github.com/ayumi-cloud/sc-security-module) - Enhanced security features including firewalls, analytics, file watcher, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
@@ -93,7 +93,7 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 
 
-- **[Security Module](https://github.com/ayumi-cloud/sc-security-module)** - Enhanced security features including firewall, virus scanner, code checker, 2fa, u2f, security api's etc.
+- 
 
 - **[Legal Module](https://github.com/ayumi-cloud/sc-legal-module)** - Legal features including tools for GDPR, ePrivacy, CCPA, Cookie Policy, Privacy Policy, Terms and Conditions, 2257 etc.
 
