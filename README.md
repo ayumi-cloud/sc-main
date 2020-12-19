@@ -374,7 +374,7 @@ $ tools/php-cs-fixer/vendor/bin/php-cs-fixer fix src
 
 ### Testing ⚙️
 
-The Parser module uses the following:
+All the modules including the Summer CMS core uses the following:
 
 - A [PHPUnit](https://phpunit.de) test suite.
 - A coding style compliance test suite using [PHP CS Fixer](http://cs.sensiolabs.org/).
