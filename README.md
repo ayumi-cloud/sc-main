@@ -63,8 +63,8 @@ Over years we have coded and created well over a hundred pull requests (under va
 EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
-            <td></td>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></td>
+          <td><h1><a href="https://github.com/ayumi-cloud/sc-developer-module">Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ......</td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
@@ -94,12 +94,6 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 
 
-- 
-
-- **[Legal Module](https://github.com/ayumi-cloud/sc-legal-module)** - Legal features including tools for GDPR, ePrivacy, CCPA, Cookie Policy, Privacy Policy, Terms and Conditions, 2257 etc.
-
-- **[Parser Module](https://github.com/ayumi-cloud/sc-parser-module)** - ................. to do
-
 
 - **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, IPFS, preloading, predictive prefetching etc.
 
@@ -112,7 +106,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - **Frameworks Module** - Vanilla js ajax framework (no more jquery), intergrated features for Angular, React, Vue.js, Bootstrap, Web Components etc.
 
-- **Developer Module** - .................. to do
+
 
 - **CDN Module** - 
 
