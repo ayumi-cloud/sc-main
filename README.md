@@ -60,7 +60,7 @@ Over years we have coded and created well over a hundred pull requests (under va
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></td>
           <td><h1><a href="https://github.com/ayumi-cloud/sc-legal-module">Legal Module</a></h1><br>18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
-EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc..</td>
+EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
