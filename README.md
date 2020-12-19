@@ -36,9 +36,7 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 ## Summer CMS Modules 👀
 
-**Note: (*) This is a very brief overview of the modules and doesn't list the full features included in each module (this is intended to give users an overview picture).**
-
-
+=== TO DO ===
 
 
 <table>
