@@ -30,13 +30,68 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 ## Introduction ⭐
 
-xxx
+=== TO DO ===
 
 
 
 ## Summer CMS Modules 👀
 
 **Note: (*) This is a very brief overview of the modules and doesn't list the full features included in each module (this is intended to give users an overview picture).**
+
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Link</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td>xxx</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
 
 - **[Security Module](https://github.com/ayumi-cloud/sc-security-module)** - Enhanced security features including firewall, virus scanner, code checker, 2fa, u2f, security api's etc.
 
