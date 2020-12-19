@@ -372,6 +372,20 @@ $ tools/php-cs-fixer/vendor/bin/php-cs-fixer fix src
 
 (*) Change the above command to the correct folder location.
 
+### Testing ⚙️
+
+The Parser module uses the following:
+
+- A [PHPUnit](https://phpunit.de) test suite.
+- A coding style compliance test suite using [PHP CS Fixer](http://cs.sensiolabs.org/).
+- A code analysis compliance test suite using [PHPStan](https://github.com/phpstan/phpstan).
+
+To run the tests, run the following command from the project folder.
+
+```bash
+$ composer test
+```
+
 ## Semantic Versioning 🎁
 
 The Summer CMS and all modules use: [Semantic Versioning](https://semver.org/).
