@@ -34,13 +34,13 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 
 
-## Summer CMS Modules 👀
+## Summer CMS 🌞
 
 The Summer CMS platform is made up of the following components, the core, modules, installer, documentation and the test suite. Addition components include apps, plugins, themes and templates.
 
 === TO DO ===
 
-### Modules
+### Summer CMS Modules 👀
 
 <table>
     <thead>
