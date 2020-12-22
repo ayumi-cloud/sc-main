@@ -122,12 +122,17 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - **Form Module** - 
 
+- Core 
+
+- Installer
+
+- Accessibility
 
 ...more modules will be uploaded
 
 
 
-
+=== TO DO ===
 
 
 
