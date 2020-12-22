@@ -48,24 +48,24 @@ Over years we have coded and created well over a hundred pull requests (under va
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></td>
+            <td align="center"><a href="https://github.com/ayumi-cloud/sc-origin-trials-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
             <td><h1><a href="https://github.com/ayumi-cloud/sc-origin-trials-module">Origin Trials Module</a></h1><br>=== TO DO ===</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></td>
+            <td align="center"><a href="https://github.com/ayumi-cloud/sc-security-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
           <td><h1><a href="https://github.com/ayumi-cloud/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></td>
+            <td align="center"><a href="https://github.com/ayumi-cloud/sc-parser-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
           <td><h1><a href="https://github.com/ayumi-cloud/sc-parser-module">Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></td>
+            <td align="center"><a href="https://github.com/ayumi-cloud/sc-legal-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
           <td><h1><a href="https://github.com/ayumi-cloud/sc-legal-module">Legal Module</a></h1><br>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
 EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></td>
+            <td align="center"><a href="https://github.com/ayumi-cloud/sc-developer-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
           <td><h1><a href="https://github.com/ayumi-cloud/sc-developer-module">Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</td>
         </tr>
         <tr>
