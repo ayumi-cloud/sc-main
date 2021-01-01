@@ -113,8 +113,6 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - **Semantic Module** - Schema.org, JSON-LD, microformats, ontologies etc.
 
-- **Frameworks Module** - Vanilla js ajax framework (no more jquery), intergrated features for Angular, React, Vue.js, Bootstrap, Web Components etc.
-
 
 
 - **CDN Module** - 
