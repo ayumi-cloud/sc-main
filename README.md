@@ -187,7 +187,7 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 ### Symfony
 
-![Symfony](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/symfony.jpg)
+![Symfony](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
 
 - Symfony 5.x or greater.
 
