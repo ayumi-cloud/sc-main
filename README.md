@@ -321,10 +321,35 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 === TO DO ===
 
 
+### SQLSRV
+
+=== TO DO ===
+
+### PostgreSQL
+
+=== TO DO ===
+
+### MongoDB
+
+=== TO DO ===
+
+### MariaDB
+
+=== TO DO ===
 
 
 
+### Redis
 
+=== TO DO ===
+
+### Memcached
+
+=== TO DO ===
+
+### Docker
+
+=== TO DO ===
 
 
 
