@@ -273,6 +273,35 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 - **IIS7+**
 
+### LiteSpeed Web Server 🛠️
+
+==== TO DO ===
+
+### Lighttpd HTTP Server 🛠️
+
+==== TO DO ===
+
+### Cloudflare Server 🛠️
+
+==== TO DO ===
+
+### Jetty Server 🛠️
+
+==== TO DO ===
+
+### Node.js Server 🛠️
+
+==== TO DO ===
+
+### Google App Engine Server 🛠️
+
+==== TO DO ===
+
+
+
+-------
+
+
 ## Databases
  
 ### MySQL
