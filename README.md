@@ -1,8 +1,9 @@
-<h1 align="center">Codename: Summer CMS</h1>
+<h1 align="center">Welcome to Summer CMS</h1>
+<p align="center">(Being heavily coded in private repos at the moment - we look forward to publity releasing a candidate release)</p>
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/code.svg"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/php.svg"> <img src="https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/laravel-badge.png" alt="laravel"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/code.svg"> <img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/buttons/php.svg"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/laravel-badge.png" alt="laravel"> <img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/cover-1.gif"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/cover-1.gif"></p>
 
 
 ---------
@@ -58,48 +59,48 @@ The Summer CMS platform is made up of the following components, the core, module
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-origin-trials-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
-            <td><h1><a href="https://github.com/ayumi-cloud/sc-origin-trials-module">Origin Trials Module</a></h1><br>=== TO DO ===</td>
+            <td align="center"><a href="https://github.com/summer-cms/sc-origin-trials-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
+            <td><h1><a href="https://github.com/summer-cms/sc-origin-trials-module">Origin Trials Module</a></h1><br>=== TO DO ===</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-security-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
-          <td><h1><a href="https://github.com/ayumi-cloud/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
+            <td align="center"><a href="https://github.com/summer-cms/sc-security-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-parser-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
-          <td><h1><a href="https://github.com/ayumi-cloud/sc-parser-module">Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</td>
+            <td align="center"><a href="https://github.com/summer-cms/sc-parser-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-parser-module">Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-legal-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
-          <td><h1><a href="https://github.com/ayumi-cloud/sc-legal-module">Legal Module</a></h1><br>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
+            <td align="center"><a href="https://github.com/summer-cms/sc-legal-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-legal-module">Legal Module</a></h1><br>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
 EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-developer-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
-          <td><h1><a href="https://github.com/ayumi-cloud/sc-developer-module">Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</td>
+            <td align="center"><a href="https://github.com/summer-cms/sc-developer-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-developer-module">Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/ayumi-cloud/sc-framework-module"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/modules/framework.svg" alt="framework" /></a></td>
-          <td><h1><a href="https://github.com/ayumi-cloud/sc-framework-module">Framework Module</a></h1><br>The framework module contains a vanilla ajax framework to extend the Summer CMS, plus intergrate frameworks such as Angular, React, Vue.js, Bootstrap, AMP-HTML etc. with customized features tailored to each specific framework or library.</td>
+            <td align="center"><a href="https://github.com/summer-cms/sc-framework-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/framework.svg" alt="framework" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-framework-module">Framework Module</a></h1><br>The framework module contains a vanilla ajax framework to extend the Summer CMS, plus intergrate frameworks such as Angular, React, Vue.js, Bootstrap, AMP-HTML etc. with customized features tailored to each specific framework or library.</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
     </tbody>
@@ -152,7 +153,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/vanilla.jpg"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/vanilla.jpg"></p>
 
 ## Vanilla Code 🍦
 
@@ -160,7 +161,7 @@ Vanilla often refers to **pure** or **plain**. So in terms of programming langua
 
 The `core` files and `modules` in Summer CMS use `Laravel`, an open-source PHP web framework. However, all the styling, javascript and data interchange formats have been written using `vanilla` code. This makes upgrading the code **quick** and **simple** without the constraints of relying solely on a single library or framework! Plus reducing the code size and optimizing the performance by reducing the overheads of loading third-party libraries (such as jQuery as an example). Summer CMS treats all third-party libraries and frameworks as optional extras and developers are welcome to use any of them to enhance their websites and applications using Summer CMS.
 
-The [framework module](https://github.com/ayumi-cloud/sc-framework-module) adds bridges and interconnects different frameworks to Summer CMS with ease to give a customized experience for each framework!
+The [framework module](https://github.com/summer-cms/sc-framework-module) adds bridges and interconnects different frameworks to Summer CMS with ease to give a customized experience for each framework!
 
 ## Naming Prefix ✒️
 
@@ -172,29 +173,29 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 ### PHP 7.4.x Install Instructions
 
-![PHP74](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/php74.jpg)
+![PHP74](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php74.jpg)
 
-- PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/ayumi-cloud/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
+- PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
 
 ### PHP 8.x Install Instructions
 
-![PHP8](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/php8.png)
+![PHP8](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php8.png)
 
 - [PHP 8.0 UPGRADE NOTES](https://github.com/php/php-src/blob/master/UPGRADING)
 
 - [Migrating from PHP 7.4.x to PHP 8.0.x](https://www.php.net/manual/en/migration80.php)
 
-- PHP 8.x setup instructsions found for Windows 10 here: https://github.com/ayumi-cloud/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
+- PHP 8.x setup instructsions found for Windows 10 here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
 
 ### Laravel LTS
 
-![laravel](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/laravel.png)
+![laravel](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png)
 
 - Laravel 6.0 LTS (we currently use the latest LTS versions, due to the community consensus).
 
 ### Symfony
 
-![Symfony](https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
+![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
 
 - Symfony 5.x or greater.
 
@@ -361,7 +362,7 @@ We welcome bug reports, false positive alert reports, evasions, usability issues
 
 Please include your installed version and the relevant portions of your audit log.
 
-False negative or common bypasses should [create an issue](https://github.com/ayumi-cloud/sc-main/issues/new) so they can be addressed.
+False negative or common bypasses should [create an issue](https://github.com/summer-cms/sc-main/issues/new) so they can be addressed.
 
 Do this before submitting a vulnerability:
 
@@ -375,11 +376,11 @@ If in doubt, feel free to reach out to us!
 
 ## Code of Conduct 💯
 
-In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/sc-main/blob/master/CODE_OF_CONDUCT.md).
+In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/summer-cms/sc-main/blob/master/CODE_OF_CONDUCT.md).
 
 ## For Future 🔮
 
-Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/ayumi-cloud/sc-main/projects) for a list of things to be done.
+Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/summer-cms/sc-main/projects) for a list of things to be done.
 
 ## Browser Support ✅
 
@@ -388,43 +389,43 @@ The legal module has been tested in the following browsers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
       9+
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
       ✖ (1)
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
       ✖ (2)
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
+      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
       3+
     </td>
   </tr>
@@ -436,7 +437,7 @@ The legal module has been tested in the following browsers:
 
 (2) Internet Explorer version 1-11, Summer CMS will not support due to only supporting `Evergreen` brwosers.
 
-For a full list of browser support with Summer CMS, see here: [Browser Support](https://github.com/ayumi-cloud/sc-main/blob/main/docs/browser_support.md).
+For a full list of browser support with Summer CMS, see here: [Browser Support](https://github.com/summer-cms/sc-main/blob/main/docs/browser_support.md).
 
 ## Changelog 🏆
 
@@ -449,7 +450,7 @@ We are actively inviting new contributors! To start, please read the [contributi
 This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
 
 - Read the current content and help us fix any spelling mistakes or grammatical errors.
-- Choose an existing [issue](https://github.com/ayumi-cloud/sc-legal-module/issues) on GitHub and submit a pull request to fix it.
+- Choose an existing [issue](https://github.com/summer-cms/sc-legal-module/issues) on GitHub and submit a pull request to fix it.
 - Open a new issue to report an opportunity for improvement.
 
 If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
@@ -485,7 +486,7 @@ This legal module uses some PSR standards to be the most interoperable possible:
 
 We also suggest using Cross-browser testing provided by BrowserStack (*) where a real-browser can't be used in-house.
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/browser-stack.png"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser-stack.png"></p>
 
 ## PHP Coding Standards Fixer ⭕
 
@@ -531,7 +532,7 @@ $ composer test
 
 The Summer CMS and all modules use: [Semantic Versioning](https://semver.org/).
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-security-module/blob/master/src/assets/images/semver.png"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/semver.png"></p>
 
 Semantic Versioning is a 3-component number in the format of `X.Y.Z` where:
 
@@ -565,4 +566,4 @@ Everyone is permitted to copy and distribute copies of Summer CMS, but changing 
 
 [⬆ back to top](#table-of-contents-)
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-main/blob/main/src/assets/images/luv.png"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/luv.png"></p>
