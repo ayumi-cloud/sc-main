@@ -17,6 +17,7 @@
   - LEGAL
   - DEVELOPER
   - FRAMEWORKS
+  - PARSER
   - CORE
   - UI
 
