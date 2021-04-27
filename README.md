@@ -316,7 +316,9 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 
 ## Databases
- 
+
+Below is a list of databases we have tested Summer CMS against our stability tests for optimal performance.
+
 ### MySQL
 
 - MySQL 5.7.7 or greater (we recommend the latest version of MySQL, which can be found here: [Latest Release](https://www.mysql.com/)).
