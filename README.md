@@ -236,7 +236,8 @@ We have a dedicated Apache section for users using `.htaccess` some configuratio
 - [`mod_mime.c` (mime_module)](https://httpd.apache.org/docs/current/mod/mod_mime.html)
 - [`mod_rewrite.c` (rewrite_module)](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 - [`mod_setenvif.c` (setenvif_module)](https://httpd.apache.org/docs/current/mod/mod_setenvif.html)
-
+- [mod_authz_core (core authorization module)](https://httpd.apache.org/docs/current/mod/mod_authz_core.html)
+ 
 For more detailed information on configuration files and how to use them, please check the appropriate Apache documentation:
 
 - https://httpd.apache.org/docs/current/configuring.html
