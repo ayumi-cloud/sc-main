@@ -15,12 +15,13 @@ DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
   - SECURITY
   - PERFORMANCE
   - LEGAL
-  - DEVELOPER
+  - DEVELOPER-TOOLS
   - FRAMEWORKS
   - PARSER
   - CORE
   - UI
-
+  - INSTALLER
+  
   WHEN THESE HAVE BEEN COMPLETED WE WILL FOCUS ON ALL THE OTHER MODULES...
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/summer_bg.jpg"></p>
