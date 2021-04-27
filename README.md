@@ -227,6 +227,7 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 We have a dedicated Apache section for users using `.htaccess` some configurations won't have any effect if the appropriate modules aren't enabled. So, in order for everything to work as intended, you need to ensure the you have the following Apache modules enabled:
 
+- [`mod_authz_core.c` (core authorization module)](https://httpd.apache.org/docs/current/mod/mod_authz_core.html)
 - [`mod_autoindex.c` (autoindex_module)](https://httpd.apache.org/docs/current/mod/mod_autoindex.html)
 - [`mod_deflate.c` (deflate_module)](https://httpd.apache.org/docs/current/mod/mod_deflate.html)
 - [`mod_expires.c` (expires_module)](https://httpd.apache.org/docs/current/mod/mod_expires.html)
@@ -236,7 +237,6 @@ We have a dedicated Apache section for users using `.htaccess` some configuratio
 - [`mod_mime.c` (mime_module)](https://httpd.apache.org/docs/current/mod/mod_mime.html)
 - [`mod_rewrite.c` (rewrite_module)](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 - [`mod_setenvif.c` (setenvif_module)](https://httpd.apache.org/docs/current/mod/mod_setenvif.html)
-- [mod_authz_core (core authorization module)](https://httpd.apache.org/docs/current/mod/mod_authz_core.html)
  
 For more detailed information on configuration files and how to use them, please check the appropriate Apache documentation:
 
