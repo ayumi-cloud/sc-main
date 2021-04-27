@@ -201,7 +201,9 @@ Thecms has been optimized to work with php `7.4.x` and `8.x` versions - we recom
 
 - Laravel 6.0 LTS (we're currently using LTS versions, due to the community consensus).
 
-xxxxxx
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
+
+As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min php version - we will be testing Laravel 9 LTS with php 7.4 and 8.x
 
 ### Symfony
 
