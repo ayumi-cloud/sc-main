@@ -323,19 +323,23 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 ### SQLite
 
-- SQLite 3.7.11 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
+- SQLite 3.8.8 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
 
 ### SQLSRV
 
-=== TO DO ===
+- SQL Server 2017 or greater (we recommend the latest version of SQLSRV, which can be found here: [Latest Release](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads)).
 
 ### PostgreSQL
 
-=== TO DO ===
+- PostgreSQL 9.6 or greater (we recommend the latest version of PostgreSQL, which can be found here: [Latest Release](https://www.postgresql.org/)).
 
 ### MongoDB
 
-=== TO DO ===
+- MongoDB is 3.6 or greater (we recommend the latest version of MongoDB, which can be found here: [Latest Release](https://www.mongodb.com/)).
+
+### ArangoDB
+
+- ArangoDB is 3.6 or greater (we recommend the latest version of ArangoDB, which can be found here: [Latest Release](https://www.arangodb.com/)).
 
 ### MariaDB
 
@@ -350,6 +354,10 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 === TO DO ===
 
 ### Memcached
+
+=== TO DO ===
+
+### Amazon DynamoDB
 
 === TO DO ===
 
