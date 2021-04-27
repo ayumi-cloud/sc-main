@@ -8,9 +8,9 @@
 
 ---------
 
-  SORRY THE PUBLIC REPOS ARE A MESS AND HALF DONE. WE'RE SPENDING SO MUCH TIME GATHERING IDEAS, RESEARCHING METHODS TO CREATE THE IDEAS, CODING THEM, DEBUG AND TESTING THE CODE AND KEEP REPEATING THE PROCCESS. WE USE SUMMER CMS EVERYDAY AND EVERY 1-2 WEEKS KEEP RELEASING MAJOR UPDATES AND SEVERAL TIMES DAILY MINOR UPDATES! THIS HAS GONE ON FOR OVER A YEAR NOW. WE HOPE TO EXPAND THE CODING TEAM TO AROUND 30 MEMBERS FULL TIME AND RELEASE AN EXCITING CANDIDATE RELEASE IN THE NEAR FUTURE! BEFORE THE RELEASE ALL THE PUBLIC REPOS AND DOCS WILL BE FINISHED OFF AND WE WELCOME ALPHA TESTERS. RIGHT NOW WE ARE FOCUSED WITH THE CODING IN THE PRIVATE REPO'S.
+Sorry the public repos are a mess and half done. We're spending so much time gathering ideas, researching methods to create the ideas, coding them, debug and testing the code and keep repeating the process. We use summer CMS everyday and every 1-2 weeks keep releasing major updates and several times daily minor updates! This has gone on for over a year now. We hope to expand the coding team to around 30 members full time and release an exciting candidate release in the near future! Before the release all the public repos and docs will be finished off and we welcome alpha testers. Right now we are focused with the coding in the private repo's.
   
-  DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
+DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
   
   - SECURITY
   - PERFORMANCE
@@ -22,7 +22,9 @@
   - UI
 
   WHEN THESE HAVE BEEN COMPLETED WE WILL FOCUS ON ALL THE OTHER MODULES...
-  
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/summer_bg.jpg"></p>
+
 ---------
   
   
