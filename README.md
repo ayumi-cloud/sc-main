@@ -177,7 +177,7 @@ The [framework module](https://github.com/summer-cms/sc-framework-module) adds b
 
 ## Requirements 🚩
 
-This module has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
+Thecms has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
 
 ### PHP 7.4.x Install Instructions
 
@@ -199,7 +199,9 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 ![laravel](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png)
 
-- Laravel 6.0 LTS (we currently use the latest LTS versions, due to the community consensus).
+- Laravel 6.0 LTS (we're currently using LTS versions, due to the community consensus).
+
+xxxxxx
 
 ### Symfony
 
