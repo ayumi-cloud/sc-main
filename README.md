@@ -319,20 +319,11 @@ The server settings target IIS7+ where replacement config is available for IIS8 
  
 ### MySQL
 
-==== TO DO ===
- 
- 
- 
- 
-
+- MySQL 5.7.7 or greater (we recommend the latest version of MySQL, which can be found here: [Latest Release](https://www.mysql.com/)).
 
 ### SQLite
 
 - SQLite 3.7.11 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
-  
-
-=== TO DO ===
-
 
 ### SQLSRV
 
@@ -348,7 +339,9 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 ### MariaDB
 
-=== TO DO ===
+- MariaDB is 10.2 or greater (we recommend the latest version of MariaDB, which can be found here: [Latest Release](https://mariadb.org/)).
+
+
 
 
 
