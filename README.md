@@ -120,7 +120,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 
 
-- **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, IPFS, preloading, predictive prefetching etc.
+- **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, Early Hints API, IPFS, preloading, predictive prefetching etc.
 
 
 - **Progressive Web Apps Module** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
@@ -245,7 +245,11 @@ For more detailed information on configuration files and how to use them, please
 
 ##### Support
 
- * Apache **2.4.10 or greater** (we are looking at adding some version 2.5 features in the near future)
+ * Apache **2.4.10 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
+
+=== TO DO ===
+
+> Plans to increase min version number to install HTTP/2 to a stable release (part of the protocols module) - note there have been many security patch versions. We are currently testing a secure stable version with the cms and http/2.
 
 #### Limits
 
