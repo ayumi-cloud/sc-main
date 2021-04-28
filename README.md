@@ -149,6 +149,26 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - Accessibility
 
+- Prod checks
+
+- Sys info
+
+- Analytics
+
+- Settings
+
+- Mail
+
+- Machine learning
+
+- Help wizard
+
+- Quick links
+
+- Feeds
+
+
+
 ...more modules will be uploaded
 
 
