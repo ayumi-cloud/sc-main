@@ -205,12 +205,6 @@ Thecms has been optimized to work with php `7.4.x` and `8.x` versions - we recom
 
 As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min php version - we will be testing Laravel 9 LTS with php 7.4 and 8.x
 
-### Symfony
-
-![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
-
-- Symfony 5.x or greater.
-
 #### Notes
 
 - Laravel 6.0 LTS to use [Laravel Passport](https://laravel.com/docs/6.x/passport).
@@ -218,6 +212,12 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 - Laravel 7 to use [Laravel Airlock](https://laravel.com/docs/master/airlock). To learn more you can watch this video: [Laravel Airlock with Vue for SPA Auth](https://www.youtube.com/watch?v=D9oIu6jiYLk).
 
 - Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
+
+### Symfony
+
+![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
+
+- Symfony 5.x or greater.
 
 ## Servers 🔧
 
