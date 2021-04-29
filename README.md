@@ -205,7 +205,13 @@ The [framework module](https://github.com/summer-cms/sc-framework-module) adds b
 
 ## Requirements 🚩
 
-Thecms has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
+Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
+
+#### Support
+
+- **PHP 7.3 or greater**.
+
+> The CMS will not work below php 7.3, because several modules have been coded with 7.3 and above php.
 
 ### PHP 7.4.x Install Instructions
 
@@ -227,7 +233,9 @@ Thecms has been optimized to work with php `7.4.x` and `8.x` versions - we recom
 
 ![laravel](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png)
 
-- Laravel 6.0 LTS (we're currently using LTS versions, due to the community consensus).
+#### Support
+
+- **Laravel 6.0 LTS** (we're currently using LTS versions, due to the community consensus).
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
 
@@ -245,7 +253,9 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 ![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
 
-- Symfony 5.x or greater.
+#### Support
+
+- **Symfony 5.x or greater**.
 
 ## Servers 🔧
 
@@ -341,7 +351,7 @@ Using the Nginx server settings has a few required steps to be able to work.
 
 #### Support
 
-- Nginx v**1.8.0**+
+- Nginx **1.8.0 or greater**.
 
 ### Microsoft IIS Server 🛠️
 
@@ -349,7 +359,7 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 ### Support
 
-- **IIS7+**
+- IIS **7 or greater**.
 
 ### LiteSpeed Web Server 🛠️
 
