@@ -249,6 +249,12 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 - Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
 
+So, beginning immediately, **Laravel is moving from a 6 month major release cycle to a 12 month release cycle**. Therefore, since Laravel 8.0 was released in September of 2020, Laravel 9.0 (LTS) will not be released until September of 2021. Laravel 10.0 will be released in September of 2022, etc.
+
+Due to this decision, we decided to backport parallel testing (a major feature of the 9.0 release) to Laravel 8.0 so that our users could take advantage of it immediately. That feature has been released.
+
+This new release cycle will not only ease the the maintenance burden on our community and relieve the stress of feeling like you are being "left behind", it will challenge us as Laravel developers to implement high-value, amazing features without breaking backwards compatibility so that we can deliver them to you as quickly as possible.
+
 ### Facade Ignition
 
 <p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png"></p>
