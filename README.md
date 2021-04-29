@@ -264,7 +264,7 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 **Unauthenticated remote code execution in Ignition CVE-2021-3129**
 
-Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.
+Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of `file_get_contents()` and `file_put_contents()`. This is exploitable on sites using debug mode with Laravel before `8.4.2`.
 
 <table>
     <thead>
