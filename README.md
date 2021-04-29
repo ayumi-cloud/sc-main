@@ -34,8 +34,20 @@ DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
   
 ## Table of Contents 📑
 
-|-- x
-  |-- x
+- [Transparency](#transparency-)
+- [Introduction](#introduction-)
+- [Summer CMS](#summer-cms-)
+- [Summer CMS Modules](#summer-cms-modules-)
+- [Privacy as Default](#privacy-as-default-)
+  - [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-)
+  - [ePrivacy Regulation](#eprivacy-regulation-)
+  - [California Consumer Privacy Act (CCPA)](#california-consumer-privacy-act-ccpa-)
+  - [Strong Customer Authentication (SCA) ](#strong-customer-authentication-sca-)
+  - [The Second Payment Services Directive (PSD2)](#the-second-payment-services-directive-psd2-)
+  - [FLoC](#floc-)
+- [Vanilla Code](#vanilla-code-)
+
+=== TO DO ===
 
 
 ## Transparency 📢
