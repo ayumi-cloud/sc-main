@@ -251,7 +251,7 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 ### Facade Ignition
 
-<p align="center"><img src="(https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png"></p>
 
 - Facade Ignition version 1.x will be used on Laravel 6 LTS Summer CMS (**current release**).
 - Facade Ignition version 2.x will be used on Laravel 9 LTS Summer CMS (future release).
