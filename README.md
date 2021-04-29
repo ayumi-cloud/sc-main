@@ -215,13 +215,13 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 ### PHP 7.4.x Install Instructions
 
-![PHP74](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php74.jpg)
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php74.jpg"></p>
 
 - PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
 
 ### PHP 8.x Install Instructions
 
-![PHP8](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php8.png)
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php8.png"></p>
 
 - [PHP 8.0 UPGRADE NOTES](https://github.com/php/php-src/blob/master/UPGRADING)
 
@@ -231,7 +231,7 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 ### Laravel LTS
 
-![laravel](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png)
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png"></p>
 
 #### Support
 
@@ -251,10 +251,10 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 ### Facade Ignition
 
-![facade ignition](https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png)
+<p align="center"><img src="(https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png"></p>
 
-- Facade Ignition version 1.x will be used on Laravel 6 LTS Summer CMS.
-- Facade Ignition version 2.x will be used on Laravel 9 LTS Summer CMS.
+- Facade Ignition version 1.x will be used on Laravel 6 LTS Summer CMS (**current release**).
+- Facade Ignition version 2.x will be used on Laravel 9 LTS Summer CMS (future release).
 
 #### Support
 
@@ -263,18 +263,39 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 ⚠️ Warning when using Facade Ignition ⚠️
 
 **Unauthenticated remote code execution in Ignition CVE-2021-3129**
+
 Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.
 
-Affected versions | Patched versions
----|---
->= 2.5.0, < 2.5.2 | 2.5.2
->= 2.0.0, < 2.4.2 | 2.4.2
->= 1.7.0, < 1.16.14 | 1.16.14 (current patched version for Summer CMS)
-< 1.6.15 | 1.6.15
+<table>
+    <thead>
+        <tr>
+            <th>Affected versions</th>
+            <th>Patched versions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&#62;= 2.5.0, &#60; 2.5.2</td>
+            <td>2.5.2</td>
+        </tr>
+        <tr>
+            <td>&#62;= 2.0.0, &#60; 2.4.2</td>
+            <td>2.4.2</td>
+        </tr>
+        <tr>
+            <td>&#62;= 1.7.0, &#60; 1.16.14</td>
+            <td>1.16.14 (current patched version for Summer CMS)</td>
+        </tr>
+        <tr>
+            <td>&#60; 1.6.15</td>
+            <td>1.6.15</td>
+        </tr>        
+    </tbody>
+</table>
 
 ### Symfony
 
-![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg"></p>
 
 #### Support
 
@@ -331,9 +352,11 @@ Apache HTTP Server 2.4 vulnerabilities can be found here: https://httpd.apache.o
 Some security examples for HTTP/2 are listed below:
 
 **Push Diary Crash on Specifically Crafted HTTP/2 Header (CVE-2020-9490)**
+
 In Apache HTTP Server versions 2.4.20 to 2.4.43, a specially crafted value for the 'Cache-Digest' header in a HTTP/2 request would result in a crash when the server actually tries to HTTP/2 PUSH a resource afterwards. Configuring the HTTP/2 feature via "H2Push off" will mitigate this vulnerability for unpatched servers. Fixed in Apache HTTP Server 2.4.44.
 
 **Push Diary Crash on Specifically Crafted HTTP/2 Header (CVE-2020-11993)**
+
 In Apache HTTP Server versions 2.4.20 to 2.4.43, when trace/debug was enabled for the HTTP/2 module and on certain traffic edge patterns, logging statements were made on the wrong connection, causing concurrent use of memory pools. Fixed in Apache HTTP Server 2.4.44.
 
 ##### Support (with the http/2 module installed)
