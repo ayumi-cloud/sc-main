@@ -183,9 +183,57 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 ## Privacy as Default 👀
 
+The Summer CMS takes privacy and user data seriously, we strongly believe in putting the user first and being fully transparent! Below lists some major components. However, for a full list see the legal module section here: https://github.com/summercms/sc-legal-module#goals-soccer
+
+### General Data Protection Regulation (GDPR) 🔔
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/gdpr.jpg"></p>
+
+The General Data Protection Regulation (GDPR) is one of the most wide-ranging pieces of legislation passed by the EU in recent memory. It was introduced to standardise data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### ePrivacy Regulation 🔔
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/eprivacy.jpg"></p>
+
+The ePrivacy Regulation will complement the GDPR’s general rules on personal data processing by providing specific rules governing electronic communications.
+
+As such, the ePrivacy Regulation will take precedent over the GDPR in situations where both laws apply.
+
+Note that, unlike the GDPR, the ePrivacy Regulation does not apply to just personal data. It also affects, for instance, B2B marketing.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### California Consumer Privacy Act (CCPA) 🔔
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/ccpa.jpg"></p>
+
+The California Consumer Privacy Act (CCPA) is a law that allows any California consumer to demand to see all the information a company has saved on them, as well as a full list of all the third parties that data is shared with.
+
+Businesses are subject to CCPA if they meet the requirements of having gross annual revenues of more than $25 million; buy, receive or sell the personal information of 50,000 or more consumers, households or devices in California; or derive 50% or more annual revenue from selling consumers' personal information.
+
+The CCPA requires business privacy policies to include information on consumers' privacy rights and how to exercise them: the Right to Know, the Right to Delete, the Right to Opt-Out of Sale and the Right to Non-Discrimination.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### Strong Customer Authentication (SCA) 🔔
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/sca.png"></p>
+
+Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments and meet SCA requirements, you need to build additional authentication into your checkout flow.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and customize secure settings and sca notices.
+
+### The Second Payment Services Directive (PSD2) 🔔
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/psd2.jpg"></p>
+
+The Payment Services Directive Two (PSD2) is a piece of legislation designed to force providers of payment services to improve customer authentication processes and to also bring in new regulation around third-party involvement.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and customize secure settings and sca notices.
+
 ### FLoC 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/floc.png"></p>
 
 FLoC enables ad selection without sharing the browsing behaviour of individual users. A site should be able to declare that it does not want to be included in the user's list of sites for cohort calculation. Summer CMS puts it's users privacy first and so sets the `opt-out` as the default, webmasters and users can then `opt-in`. This also passes GDPR/ePrivacy laws.
 
