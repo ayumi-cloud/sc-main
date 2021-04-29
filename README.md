@@ -249,6 +249,29 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 - Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
 
+### Facade Ignition
+
+![facade ignition](https://github.com/summercms/sc-main/blob/main/src/assets/images/ignition.png)
+
+- Facade Ignition version 1.x will be used on Laravel 6 LTS Summer CMS.
+- Facade Ignition version 2.x will be used on Laravel 9 LTS Summer CMS.
+
+#### Support
+
+- **Facade Ignition 1.16.14 or greater**.
+
+⚠️ Warning when using Facade Ignition ⚠️
+
+**Unauthenticated remote code execution in Ignition CVE-2021-3129**
+Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.
+
+Affected versions | Patched versions
+---|---
+>= 2.5.0, < 2.5.2 | 2.5.2
+>= 2.0.0, < 2.4.2 | 2.4.2
+>= 1.7.0, < 1.16.14 | 1.16.14 (current patched version for Summer CMS)
+< 1.6.15 | 1.6.15
+
 ### Symfony
 
 ![Symfony](https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg)
