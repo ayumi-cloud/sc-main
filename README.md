@@ -266,15 +266,13 @@ We have a dedicated Apache section for users using `.htaccess` some configuratio
 - [`mod_rewrite.c` (rewrite module)](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 - [`mod_setenvif.c` (setenvif module)](https://httpd.apache.org/docs/current/mod/mod_setenvif.html)
  
-Optional Extensions Summer CMS security module can use:
+Optional extensions: Summer CMS security module can optionally use the following modules:
 
 - [`mod_ssl.c` (ssl module)](https://httpd.apache.org/docs/current/mod/mod_ssl.html)
 
-Optional Extensions Summer CMS protocol module can use:
+Optional extensions: Summer CMS protocol module can optionally use the following modules:
 
 - [`mod_proxy_http2.c` (http/2 module)](https://httpd.apache.org/docs/current/mod/mod_proxy_http2.html)
-
-Almost all modern browsers support HTTP/2, but only over SSL connections: Firefox (v43), Chrome (v45), Safari (since v9), iOS Safari (v9), Opera (v35), Chrome for Android (v49) and Internet Explorer (v11 on Windows10).
 
 The HTTP/2 protocol is implemented by its own httpd module, aptly named mod_http2. It implements the complete set of features described by RFC 7540 and supports HTTP/2 over cleartext (http:), as well as secure (https:) connections. The cleartext variant is named `h2c`, the secure one `h2`. For h2c it allows the direct mode and the Upgrade: via an initial HTTP/1 request.
 
@@ -287,14 +285,25 @@ For more detailed information on configuration files and how to use them, please
 
 ##### Support
 
- * Apache **2.4.10 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
+ * Apache **2.4.19 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
 
-=== TO DO ===
+⚠️ Warning when using HTTP/2 module ⚠️
 
-Available in httpd 2.4.19 and later
+Apache HTTP Server 2.4 show many HTTP/2 vulnerabilities and to patch these security issues **we recommend using the latest version of Apache and and being able to regularly update the Apache version**.
 
+Apache release announcements can be found here: https://downloads.apache.org/httpd/Announcement2.4.html
 
-> Plans to increase min version number to install HTTP/2 to a stable release (part of the protocols module) - note there have been many security patch versions. We are currently testing a secure stable version with the cms and http/2.
+Apache HTTP Server 2.4 vulnerabilities can be found here: https://httpd.apache.org/security/vulnerabilities_24.html
+
+Some security examples for HTTP/2 are listed below:
+
+**Push Diary Crash on Specifically Crafted HTTP/2 Header (CVE-2020-9490)**
+In Apache HTTP Server versions 2.4.20 to 2.4.43, a specially crafted value for the 'Cache-Digest' header in a HTTP/2 request would result in a crash when the server actually tries to HTTP/2 PUSH a resource afterwards. Configuring the HTTP/2 feature via "H2Push off" will mitigate this vulnerability for unpatched servers. Fixed in Apache HTTP Server 2.4.44.
+
+**Push Diary Crash on Specifically Crafted HTTP/2 Header (CVE-2020-11993)**
+In Apache HTTP Server versions 2.4.20 to 2.4.43, when trace/debug was enabled for the HTTP/2 module and on certain traffic edge patterns, logging statements were made on the wrong connection, causing concurrent use of memory pools. Fixed in Apache HTTP Server 2.4.44.
+
+ * Apache **2.4.44 or greater** when using the HTTP/2 module (subject to changing in the near future with new vulnerabilities patched).
 
 #### Limits
 
