@@ -283,11 +283,11 @@ For more detailed information on configuration files and how to use them, please
 - https://httpd.apache.org/docs/current/configuring.html
 - https://httpd.apache.org/docs/current/howto/htaccess.html
 
-##### Support
+##### Support (without the http/2 module installed)
 
  * Apache **2.4.19 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
 
-⚠️ Warning when using HTTP/2 module ⚠️
+⚠️ Warning when using the HTTP/2 module ⚠️
 
 Apache HTTP Server 2.4 show many HTTP/2 vulnerabilities and to patch these security issues **we recommend using the latest version of Apache and and being able to regularly update the Apache version**.
 
@@ -302,6 +302,8 @@ In Apache HTTP Server versions 2.4.20 to 2.4.43, a specially crafted value for t
 
 **Push Diary Crash on Specifically Crafted HTTP/2 Header (CVE-2020-11993)**
 In Apache HTTP Server versions 2.4.20 to 2.4.43, when trace/debug was enabled for the HTTP/2 module and on certain traffic edge patterns, logging statements were made on the wrong connection, causing concurrent use of memory pools. Fixed in Apache HTTP Server 2.4.44.
+
+##### Support (with the http/2 module installed)
 
  * Apache **2.4.44 or greater** when using the HTTP/2 module (subject to changing in the near future with new vulnerabilities patched).
 
