@@ -266,6 +266,20 @@ We have a dedicated Apache section for users using `.htaccess` some configuratio
 - [`mod_rewrite.c` (rewrite module)](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 - [`mod_setenvif.c` (setenvif module)](https://httpd.apache.org/docs/current/mod/mod_setenvif.html)
  
+Optional Extensions Summer CMS security module can use:
+
+- [`mod_ssl.c` (ssl module)](https://httpd.apache.org/docs/current/mod/mod_ssl.html)
+
+Optional Extensions Summer CMS protocol module can use:
+
+- [`mod_proxy_http2.c` (http/2 module)](https://httpd.apache.org/docs/current/mod/mod_proxy_http2.html)
+
+Almost all modern browsers support HTTP/2, but only over SSL connections: Firefox (v43), Chrome (v45), Safari (since v9), iOS Safari (v9), Opera (v35), Chrome for Android (v49) and Internet Explorer (v11 on Windows10).
+
+The HTTP/2 protocol is implemented by its own httpd module, aptly named mod_http2. It implements the complete set of features described by RFC 7540 and supports HTTP/2 over cleartext (http:), as well as secure (https:) connections. The cleartext variant is named `h2c`, the secure one `h2`. For h2c it allows the direct mode and the Upgrade: via an initial HTTP/1 request.
+
+- Apache HTTP/2 guide can be found here: https://httpd.apache.org/docs/current/howto/http2.html
+
 For more detailed information on configuration files and how to use them, please check the appropriate Apache documentation:
 
 - https://httpd.apache.org/docs/current/configuring.html
@@ -276,6 +290,9 @@ For more detailed information on configuration files and how to use them, please
  * Apache **2.4.10 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
 
 === TO DO ===
+
+Available in httpd 2.4.19 and later
+
 
 > Plans to increase min version number to install HTTP/2 to a stable release (part of the protocols module) - note there have been many security patch versions. We are currently testing a secure stable version with the cms and http/2.
 
@@ -299,6 +316,10 @@ The security module builds and creates the `.htaccess` file with the following s
 - Web Performance
 
 (*) Disclaimer: Above is a brief list and not intended to be a complete list.
+
+#### Apache Security
+
+Apache, like other server software, can be hacked and exploited. The main Apache attack tool is `Slowloris`, which exploits a bug in Apache software. The Apache developers have addressed Slowloris with several modules to limit the damage caused; the Apache modules: `mod_limitipconn`, `mod_qos`, `mod_evasive`, `mod security`, `mod_noloris` and `mod_antiloris` have all been suggested as means of reducing the likelihood of a successful `Slowloris` attack. Summer CMS recommends it's users to use one of these modules when using Apache software for enchanced protection, along side our security module for complete protection and peace of mind.
 
 ### Nginx Server 🛠️
 
