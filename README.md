@@ -505,6 +505,16 @@ The server settings target IIS7+ where replacement config is available for IIS8 
 
 
 
+
+## Cloud Server / VPS Recommendations 💭
+
+- [AWS Lightsail](https://aws.amazon.com/lightsail/pricing) - Linux virtual server (1 cpu, 1GB memory, 40GB ssd, 2TB bandwidth)
+- [Google Cloud Platform](https://cloud.google.com) - Compute Engine General purpose (N2)
+- [Vultr](https://www.vultr.com/products/cloud-compute/) - Cloud Compute (1 cpu, 1GB memory, 25GB ssd, 1TB bandwidth)
+- [Digital Ocean](https://www.digitalocean.com/products/droplets/) - Droplet (1 cpu, 25GB ssd, 1TB bandwidth)
+- [Linode](https://www.linode.com/products/shared/) - Shared virtual Instances (1 cpu, 1GB memory, 25GB ssd, 1TB bandwidth)
+- [Others]
+
 -------
 
 
