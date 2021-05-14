@@ -588,7 +588,7 @@ Here you should now be seeing the Summer CMS demo theme at `http://<YOUR_DOCKER_
 
 ##### If you want some database power
 
-1. `docker-compose -f .docker/docker-compose.yml exec php php artisan october:env`
+1. `docker-compose -f .docker/docker-compose.yml exec php php artisan summercms:env`
 2. Set `.env`'s `DB_HOST` to `db` and add some value for `DB_PASSWORD`
 3. `docker-compose -f .docker/docker-compose.yml up -d --build`
 4. `docker-compose -f .docker/docker-compose.yml exec php php artisan summercms:up`
