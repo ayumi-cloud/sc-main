@@ -568,9 +568,34 @@ Below is a list of databases we have tested Summer CMS against our stability tes
 
 ### Docker
 
-=== TO DO ===
+Tested with the following setup:
 
+- Official [mysql:5.7.7 image](https://hub.docker.com/_/mysql/) as database (but you can change to pgsql for example).
+- Official [php:fpm image](https://hub.docker.com/_/php/) to run PHP over [FastCGI](https://en.wikipedia.org/wiki/FastCGI).
+- Official Apache [httpd image](https://hub.docker.com/_/httpd/) as web/proxy server.
 
+#### How to setup docker with Summer CMS
+
+##### From scratch
+
+1. `git clone https://github.com/summercms/october.git my-app`
+2. `cd my-app`
+3. `git clone https://github.com/leocavalcante/Docktober.git .docker`
+4. `docker-compose -f .docker/docker-compose.yml up -d --build`
+5. `docker-compose -f .docker/docker-compose.yml exec php composer install`
+
+Here you should now be seeing the Summer CMS demo theme at `http://<YOUR_DOCKER_MACHINE_IP>:8000`.
+
+##### If you want some database power
+
+1. `docker-compose -f .docker/docker-compose.yml exec php php artisan october:env`
+2. Set `.env`'s `DB_HOST` to `db` and add some value for `DB_PASSWORD`
+3. `docker-compose -f .docker/docker-compose.yml up -d --build`
+4. `docker-compose -f .docker/docker-compose.yml exec php php artisan summercms:up`
+
+Now you should be able to access `http://<YOUR_DOCKER_MACHINE_IP>:8000/backend` and now enjoy a full version of Summer CMS.
+
+**Recommendation:** rename [`container_name`](https://docs.docker.com/compose/compose-file/#/container-name) at `.docker/docker-compose.yml` to something meaningful.
 
 ## Reporting a Vulnerability 💥
 
