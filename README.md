@@ -578,7 +578,7 @@ Tested with the following setup:
 
 ##### From scratch
 
-1. `git clone https://github.com/summercms/october.git my-app`
+1. `git clone https://github.com/summercms/summercms.git my-app`
 2. `cd my-app`
 3. `git clone https://github.com/leocavalcante/Docktober.git .docker`
 4. `docker-compose -f .docker/docker-compose.yml up -d --build`
