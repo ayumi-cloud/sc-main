@@ -181,7 +181,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - Error / Debugging
 
-- SEO / Adverts/ Marketing / Conversions
+- SEO / Adverts/ Marketing / Conversions / Social Media / Outreach
 
 
 ...more modules will be uploaded
