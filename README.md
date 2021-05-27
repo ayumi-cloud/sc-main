@@ -302,9 +302,38 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png"></p>
 
-#### Support
+Version	| Release	| Bug Fixes Until	| Security Fixes Until
+---|---|---|---
+6 (LTS)	| September 3rd, 2019	| September 7th, 2021	| September 6th, 2022
+7	| March 3rd, 2020	| October 6th, 2020	| March 3rd, 2021
+8	| September 8th, 2020	| March 1st, 2022	| September 6th, 2022
+9 (LTS)	| September, 2021	| September, 2023	| September, 2024
+10 | September, 2022 | March, 2024 | September, 2024
+
+> **We do not support Laravel 5.1 or 5.5 LTS, please update your plugin, theme and app codes and install the latest Summer CMS version.**
+
+#### Basic User Support
 
 - **Laravel 6.0 LTS** (we're currently using LTS versions, due to the community consensus).
+
+(*) Choose this option if you don't want to regularly upgrade your code.
+
+#### Advanced User Support
+
+<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
+
+- **Laravel 8.0** (latest Laravel version, non-LTS version! We recommend using [Laravel Swift](https://laravelshift.com/)).
+
+
+
+
+
+
+xxxx
+
+
+
+
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
 
