@@ -298,7 +298,7 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 - PHP 8.x setup instructsions found for Windows 10 here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
 
-### Laravel LTS
+### Laravel Framework
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png"></p>
 
@@ -310,11 +310,11 @@ Version	| Release	| Bug Fixes Until	| Security Fixes Until
 9 (LTS)	| September, 2021	| September, 2023	| September, 2024
 10 | September, 2022 | March, 2024 | September, 2024
 
-> **We do not support Laravel 5.1 or 5.5 LTS, please update your plugin, theme and app codes and install the latest Summer CMS version.**
+> **We do not support Laravel 5.x or below, please update your plugin, theme and app codes and install the latest Summer CMS version.**
 
 #### Basic User Support
 
-- **Laravel 6.0 LTS** (we're currently using LTS versions, due to the community consensus).
+- **Laravel 6.0 LTS with php 7.4 ord 8.x** (we're currently using LTS versions, due to the community consensus).
 
 (*) Choose this option if you don't want to regularly upgrade your code.
 
@@ -322,7 +322,7 @@ Version	| Release	| Bug Fixes Until	| Security Fixes Until
 
 <p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/logo-shift.svg"></p>
 
-- **Laravel 8.0** (latest Laravel version, non-LTS version! We recommend using [Laravel Swift](https://laravelshift.com/) which lets bots automated the updates for you).
+- **Laravel 8.0 with php 7.4 ord 8.x** (latest Laravel version, non-LTS version! We recommend using [Laravel Swift](https://laravelshift.com/) which lets bots automate the updates for you).
 
 [Laravel 8](https://laravel.com/docs/8.x/releases) continues the improvements made in Laravel 7.x by introducing Laravel Jetstream, model factory classes, migration squashing, job batching, improved rate limiting, queue improvements, dynamic Blade components, Tailwind pagination views, time testing helpers, improvements to `artisan serve`, event listener improvements, and a variety of other bug fixes and usability improvements.
 
