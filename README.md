@@ -320,20 +320,11 @@ Version	| Release	| Bug Fixes Until	| Security Fixes Until
 
 #### Advanced User Support
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/logo-shift.svg"></p>
 
-- **Laravel 8.0** (latest Laravel version, non-LTS version! We recommend using [Laravel Swift](https://laravelshift.com/)).
+- **Laravel 8.0** (latest Laravel version, non-LTS version! We recommend using [Laravel Swift](https://laravelshift.com/) which lets bots automated the updates for you).
 
-
-
-
-
-
-xxxx
-
-
-
-
+[Laravel 8](https://laravel.com/docs/8.x/releases) continues the improvements made in Laravel 7.x by introducing Laravel Jetstream, model factory classes, migration squashing, job batching, improved rate limiting, queue improvements, dynamic Blade components, Tailwind pagination views, time testing helpers, improvements to `artisan serve`, event listener improvements, and a variety of other bug fixes and usability improvements.
 
 <p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
 
