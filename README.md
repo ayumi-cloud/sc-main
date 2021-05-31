@@ -336,7 +336,21 @@ As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min
 
 - Laravel 7 to use [Laravel Airlock](https://laravel.com/docs/master/airlock). To learn more you can watch this video: [Laravel Airlock with Vue for SPA Auth](https://www.youtube.com/watch?v=D9oIu6jiYLk).
 
-- Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
+Before Laravel 7, dates would be serialized to a format like the following: `2019-12-02 20:01:00`. From Laravel 7, dates serialized using the new format will appear like: `2019-12-02T20:01:00.283041Z`. If you need to customize the timestamp format, set the `$dateFormat` property on your model. This property determines how date attributes are stored in the database, as well as their format when the model is serialized to an array or JSON:
+
+```php
+class Example extends Model
+{
+    /**
+     * The storage format of the model's date columns.
+     *
+     * @var string
+     */
+    protected $dateFormat = 'U';
+}
+```
+
+- Laravel 8, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
 
 So, beginning immediately, **Laravel is moving from a 6 month major release cycle to a 12 month release cycle**. Therefore, since Laravel 8.0 was released in September of 2020, Laravel 9.0 (LTS) will not be released until September of 2021. Laravel 10.0 will be released in September of 2022, etc.
 
