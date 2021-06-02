@@ -638,6 +638,12 @@ Now you should be able to access `http://<YOUR_DOCKER_MACHINE_IP>:8000/backend` 
 
 **Recommendation:** rename [`container_name`](https://docs.docker.com/compose/compose-file/#/container-name) at `.docker/docker-compose.yml` to something meaningful.
 
+### Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/summercms/sc-main)
+
+(*) TO DO - Need to set this up...
+
 ## Reporting a Vulnerability 💥
 
 We strive to make the code accessible to a wide audience of beginner and experienced users.
