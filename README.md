@@ -640,7 +640,7 @@ Now you should be able to access `http://<YOUR_DOCKER_MACHINE_IP>:8000/backend` 
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/summercms/sc-main)
+[![Deploy](https://github.com/summercms/sc-main/blob/main/src/assets/images/heroku-button.svg)](https://heroku.com/deploy?template=https://github.com/summercms/sc-main)
 
 (*) TO DO - Need to set this up...
 
