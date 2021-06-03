@@ -104,6 +104,10 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
           <td><h1><a href="https://github.com/summer-cms/sc-framework-module">Framework Module</a></h1><br>The framework module contains a vanilla ajax framework to extend the Summer CMS, plus intergrate frameworks such as Angular, React, Vue.js, Bootstrap, AMP-HTML etc. with customized features tailored to each specific framework or library.</td>
         </tr>
         <tr>
+            <td align="center"><a href="https://github.com/summercms/sc-protocol-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/protocol.svg" alt="protocol" /></a></td>
+          <td><h1><a href="https://github.com/summer-cms/sc-framework-module">Intergrated features including HTTPS, Mixed Content, HTTP/1.1, HTTP/2 and Server Push, QUIC and HTTP/3, Early Hints API, IPFS, Preloading, Predictive prefetching etc.</td>
+        </tr>
+        <tr>
             <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
@@ -129,10 +133,6 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 
 
-
-
-
-- **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, Early Hints API, IPFS, preloading, predictive prefetching etc.
 
 
 - **Progressive Web Apps Module** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
