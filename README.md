@@ -416,7 +416,7 @@ Ignition before 2.5.2, as used in Laravel and other products, allows unauthentic
 
 #### Enable the following Apache httpd modules
 
-We have a dedicated Apache section for users using `.htaccess` some configurations won't have any effect if the appropriate modules aren't enabled. So, in order for everything to work as intended, you need to ensure the you have the following Apache modules enabled:
+We have a dedicated Apache section for users using `.htaccess` some configurations won't have any effect if the appropriate modules aren't enabled. So, in order for everything to work as intended, you will need to ensure the you have the following Apache modules enabled:
 
 - [`mod_authz_core.c` (core authorization module)](https://httpd.apache.org/docs/current/mod/mod_authz_core.html)
 - [`mod_autoindex.c` (autoindex module)](https://httpd.apache.org/docs/current/mod/mod_autoindex.html)
@@ -449,6 +449,14 @@ For more detailed information on configuration files and how to use them, please
 ##### Support (without the http/2 module installed)
 
  * Apache **2.4.19 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
+
+##### Support for 2.5 (future versions)
+
+ * Apache **2.5.0 or greater** (we are experimenting with Apache 2.5 and Summer CMS compatibility - we recommend using v2.4 for now).
+
+This version of Apache we will require more modules to be installed for extra security and performance benefits, you will need to ensure the you have the following Apache modules enabled:
+
+- [`mod_policy.c` (policy module)](https://httpd.apache.org/docs/trunk/mod/mod_policy.html)
 
 ⚠️ Warning when using the HTTP/2 module ⚠️
 
