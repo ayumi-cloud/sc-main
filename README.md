@@ -450,7 +450,7 @@ For more detailed information on configuration files and how to use them, please
 
  * Apache **2.4.19 or greater** (we are looking at adding some version 2.5 and 2.6 features in the near future and increasing the min version number!)
 
-##### Support for 2.5 (future versions)
+##### Support for Apache 2.5 (future release)
 
  * Apache **2.5.0 or greater** (we are experimenting with Apache 2.5 and Summer CMS compatibility - we recommend using v2.4 for now).
 
