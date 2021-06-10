@@ -129,7 +129,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
         </tr>
         <tr>
             <td align="center"><a href="https://summercms.gitbook.io/summer-cms/"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" alt="documentation" /></a></td>
-          <td><h1><a href="https://summercms.gitbook.io/summer-cms/">Documentation</a></h1><br>Welcome to the Summer CMS developer documentation. It's a powerful, flexible platform for creating beautiful websites, blogs, landing pages, lightweight apps, and emails.</td>
+          <td><h1><a href="https://summercms.gitbook.io/summer-cms/">Documentation</a></h1><br>Welcome to the Summer CMS developer documentation. It's a powerful, flexible platform for creating beautiful websites, blogs, landing pages, lightweight apps and emails.</td>
         </tr>
     </tbody>
 </table>
