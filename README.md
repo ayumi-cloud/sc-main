@@ -45,6 +45,8 @@ DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
   - [Strong Customer Authentication (SCA) ](#strong-customer-authentication-sca-)
   - [The Second Payment Services Directive (PSD2)](#the-second-payment-services-directive-psd2-)
   - [Federated Learning of Cohorts (FLoC)](#floc-)
+  - [Cookies](#cookies-)
+    - [SameParty Cookie Attribute](#sameparty-cookie-attribute-)
 - [Vanilla Code](#vanilla-code-)
 
 === TO DO ===
