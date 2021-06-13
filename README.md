@@ -276,9 +276,9 @@ Max-Age | lifetime: `120`, expire on close: `false` | This can be setup and chan
 HttpOnly | `true` | This can be setup and changed using the config file `session.http_only` value. 
 Secure | `true` | This can be setup and changed using the config file `session.secure` value. 
 SameSite | `Lax` | This can be setup and changed using the config file `session.same_site` value. 
-SameParty | `none` | This is currently an Origin Trial in Chrome 89 and greater browsers only. Adding `SameParty` to a cookie that would otherwise be subject to the "[Lax](https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-05#section-5.3.7.1)" or "[Lax-allowing-unsafe](https://tools.ietf.org/html/draft-west-cookie-incrementalism-01#section-3.1.1)" enforcement modes of `SameSite` weakens security properties by expanding the set of contexts in which the cookie may be accessed.
+SameParty | `none` | This is currently an Origin Trial in Chrome 89 and greater browsers only. Adding `SameParty` to a cookie that would otherwise be subject to the "[Lax](https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-05#section-5.3.7.1)" or "[Lax-allowing-unsafe](https://tools.ietf.org/html/draft-west-cookie-incrementalism-01#section-3.1.1)" enforcement modes of `SameSite` weakens security properties by expanding the set of contexts in which the cookie may be accessed. This can be setup and changed using the config file `session.same_party` value. 
 
-#### SameParty Cookie Attribute
+#### SameParty Cookie Attribute 🍪
 
 **A `SameParty` cookie is included in an HTTP request if the origins of the requested URL and all of the ancestor frames in the target browsing context belong to the same First-Party Set.** For example, a top-level navigation will always send `SameParty` cookies. Note that requests are treated the same regardless of the HTTP method (GET, POST, etc.), and the origin of the request initiator does not factor into whether the `SameParty` cookie should be allowed.
 
