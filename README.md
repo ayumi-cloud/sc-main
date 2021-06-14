@@ -803,6 +803,12 @@ composer update
 composer update --no-dev
 ```
 
+### Gitpod 🐥
+
+Summer CMS has experimental support for [Gitpod][gitpod], a pre-configured development environment that runs in your browser. To use Gitpod, click the button below and sign in with GitHub. Gitpod also offers a browser add-on, though it is not required.
+
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/summercms/sc-main)
+
 ## PSR ♻️
 
 This legal module uses some PSR standards to be the most interoperable possible:
