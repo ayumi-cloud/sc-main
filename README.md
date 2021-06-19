@@ -86,7 +86,7 @@ The Summer CMS platform is made up of the following components, the core, module
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-security-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
-          <td><h1><a href="https://github.com/summer-cms/sc-security-module">Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</td>
+          <td><h1><a href="https://github.com/summer-cms/sc-security-module"><p>Security Module</a></h1><br>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-security-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-security-module"></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-parser-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
