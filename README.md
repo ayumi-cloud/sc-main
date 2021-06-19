@@ -107,7 +107,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-protocol-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/protocol.svg" alt="protocol" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-protocol-module">Protocol Module</a></h1><p>The protocol module contains features for HTTPS, Mixed Content, HTTP/1.1, HTTP/2 and Server Push, QUIC and HTTP/3, 103 Early Hints API, IPFS, Preloading and Predictive Prefetching etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-protocol-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-protocol-module"></p></td>
+          <td><h1><a href="https://github.com/summercms/sc-protocol-module">Protocol Module</a></h1><p>The protocol module contains features for HTTPS, Mixed Content, HTTP/1.1, HTTP/2 and Server Push, QUIC and HTTP/3, 103 Early Hints API, IPFS, Preloading and Predictive Prefetching etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-protocol-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-protocol-module"></p></td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
