@@ -90,7 +90,7 @@ The Summer CMS platform is made up of the following components, the core, module
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-parser-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
-          <td><h1><a href="https://github.com/summer-cms/sc-parser-module">Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</td>
+          <td><h1><a href="https://github.com/summer-cms/sc-parser-module"><p>Parser Module</a></h1><br>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-parser-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-parser-module"></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-legal-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
