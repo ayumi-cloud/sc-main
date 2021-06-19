@@ -94,8 +94,8 @@ The Summer CMS platform is made up of the following components, the core, module
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-legal-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
-          <td><h1><a href="https://github.com/summer-cms/sc-legal-module">Legal Module</a></h1><br>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
-EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</td>
+          <td><h1><a href="https://github.com/summer-cms/sc-legal-module"><p>Legal Module</a></h1><br>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
+EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-legal-module"></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-developer-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
