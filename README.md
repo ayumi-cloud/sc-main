@@ -99,7 +99,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-developer-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
-          <td><h1><a href="https://github.com/summer-cms/sc-developer-module">Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</td>
+          <td><h1><a href="https://github.com/summer-cms/sc-developer-module"><p>Developer Module</a></h1><br>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-developer-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-developer-module"></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summer-cms/sc-framework-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/framework.svg" alt="framework" /></a></td>
