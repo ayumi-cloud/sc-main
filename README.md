@@ -328,7 +328,7 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 - PHP 8.x setup instructsions found for Windows 10 here: https://github.com/summercms/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
 
-### PHP `8.1.0-dev` Backdoor Remote Command Injection
+#### PHP `8.1.0-dev` Backdoor Remote Command Injection
 
 PHP version `8.1.0-dev` was released with a backdoor on March 28th, 2021, two malicious commits were pushed to the **php-src-repo**, but the backdoor was quickly discovered and removed. If this version of PHP runs on a server, an attacker can execute arbitrary code by sending the User-Agent header. The full announcement can be found here: https://news-web.php.net/php.internals/113838 and details of the expolit can be found here: https://www.exploit-db.com/exploits/49933
 
