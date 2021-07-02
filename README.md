@@ -312,7 +312,7 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 > The CMS will not work below php 7.4, because several modules have been coded with 7.4 and above php.
 
-### Currently Supported Versions
+### PHP End-of-Life Timetable
 
 <p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/php-support-2021.png"></p>
 
