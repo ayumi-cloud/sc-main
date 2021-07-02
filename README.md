@@ -304,7 +304,7 @@ The [framework module](https://github.com/summercms/sc-framework-module) adds br
 
 ## Requirements 🚩
 
-Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
+Summer CMS has been optimized to work with php `7.4.x` and `8.x.x` versions - we recommend upgrading from any lower php version.
 
 #### Support
 
