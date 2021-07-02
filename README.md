@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to Summer CMS</h1>
 <p align="center">(Being heavily coded in private repos at the moment - we look forward to publity releasing a candidate release)</p>
 
-<p align="center"><img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/code.svg"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/buttons/php.svg"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/laravel-badge.png" alt="laravel"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
+<p align="center"><img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/code.svg"> <img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/buttons/php.svg"> <img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/laravel-badge.png" alt="laravel"> <img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/cover-1.gif"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/cover-1.gif"></p>
 
 
 ---------
@@ -24,7 +24,7 @@ DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
   
   WHEN THESE HAVE BEEN COMPLETED WE WILL FOCUS ON ALL THE OTHER MODULES...
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/summer_bg.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/summer_bg.jpg"></p>
 
 ---------
   
@@ -36,8 +36,8 @@ DEVELOPMENT IS CURRENTLY BEING FOCUSED ON THE FOLLOWING MODULES:
 
 - [Transparency](#transparency-)
 - [Introduction](#introduction-)
-- [Summer CMS](#summer-cms-)
-- [Summer CMS Modules](#summer-cms-modules-)
+- [Summer CMS](#summercms-)
+- [Summer CMS Modules](#summercms-modules-)
 - [Privacy as Default](#privacy-as-default-)
   - [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-)
   - [ePrivacy Regulation](#eprivacy-regulation-)
@@ -81,57 +81,57 @@ The Summer CMS platform is made up of the following components, the core, module
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://github.com/summercms/sc-origin-trials-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
-            <td><h1><a href="https://github.com/summercms/sc-origin-trials-module">Origin Trials Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-origin-trials-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-origin-trials-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+            <td align="center"><a href="https://github.com/summercms/sc-origin-trials-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
+            <td><h1><a href="https://github.com/summercms/sc-origin-trials-module">Origin Trials Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-origin-trials-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-origin-trials-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/summercms/sc-security-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-security-module"><p>Security Module</a></h1><p>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-security-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-security-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+            <td align="center"><a href="https://github.com/summercms/sc-security-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/security.svg" alt="security" /></a></td>
+          <td><h1><a href="https://github.com/summercms/sc-security-module"><p>Security Module</a></h1><p>Enhanced security features including firewalls, analytics, file watcher, junk file/folder scanner, plugin scanner, malware scanner, code checkers, database and cms backups, system infomation, production mode checks, 2fa, u2f, many security tools and api's etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-security-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-security-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-parser-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-parser-module"><p>Parser Module</a></h1><p>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-parser-module"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/summercms/sc-parser-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/summercms/sc-parser-module"></p></td>
+          <td><h1><a href="https://github.com/summercms/sc-parser-module"><p>Parser Module</a></h1><p>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-parser-module"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/summercms/sc-parser-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/summercms/sc-parser-module"></p></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/summercms/sc-legal-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
+            <td align="center"><a href="https://github.com/summercms/sc-legal-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/legal.svg" alt="legal" /></a></td>
           <td><h1><a href="https://github.com/summercms/sc-legal-module"><p>Legal Module</a></h1><p>The legal module includes 18 U.S.C. 2257, CCPA, Cookie Policy, Copyright Notification, Copyscape Plagiarism Policy, Creative Commons License, Data Rentention, DPO, DMCA, ePrivacy, EU Representative
-EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-legal-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, MSA, Opt-In Policy, Opt-Out Policy, Privacy Policy, Push Notification Policy, Spam Abuse, Swiss-U.S. Privacy Shield Frameworks, Terms and Conditions etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-legal-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/summercms/sc-developer-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-developer-module"><p>Developer Module</a></h1><p>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-developer-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-developer-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+            <td align="center"><a href="https://github.com/summercms/sc-developer-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
+          <td><h1><a href="https://github.com/summercms/sc-developer-module"><p>Developer Module</a></h1><p>The developer module contains many developer tools built directly into Summer CMS that include compression, minify, beautify, ...... <br>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-developer-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-developer-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/summercms/sc-framework-module"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/modules/framework.svg" alt="framework" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-framework-module">Framework Module</a></h1><p>The framework module contains a vanilla ajax framework to extend the Summer CMS, plus intergrate frameworks such as Angular, React, Vue.js, Bootstrap, AMP-HTML etc. with customized features tailored to each specific framework or library.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summer-cms/sc-framework-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summer-cms/sc-framework-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+            <td align="center"><a href="https://github.com/summercms/sc-framework-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/framework.svg" alt="framework" /></a></td>
+          <td><h1><a href="https://github.com/summercms/sc-framework-module">Framework Module</a></h1><p>The framework module contains a vanilla ajax framework to extend the Summer CMS, plus intergrate frameworks such as Angular, React, Vue.js, Bootstrap, AMP-HTML etc. with customized features tailored to each specific framework or library.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-framework-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-framework-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-protocol-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/protocol.svg" alt="protocol" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-protocol-module">Protocol Module</a></h1><p>The protocol module contains features for HTTPS, Mixed Content, HTTP/1.1, HTTP/2 and Server Push, QUIC and HTTP/3, 103 Early Hints API, IPFS, Preloading and Predictive Prefetching etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-protocol-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-protocol-module"> <a href="https://summercms.gitbook.io/summer-cms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+          <td><h1><a href="https://github.com/summercms/sc-protocol-module">Protocol Module</a></h1><p>The protocol module contains features for HTTPS, Mixed Content, HTTP/1.1, HTTP/2 and Server Push, QUIC and HTTP/3, 103 Early Hints API, IPFS, Preloading and Predictive Prefetching etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-protocol-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-protocol-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://summercms.gitbook.io/summer-cms/"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/documentation.png" alt="documentation" /></a></td>
-          <td><h1><a href="https://summercms.gitbook.io/summer-cms/">Documentation</a></h1><br>Welcome to the Summer CMS developer documentation. It's a powerful, flexible platform for creating beautiful websites, blogs, landing pages, lightweight apps and emails.</td>
+            <td align="center"><a href="https://summercms.gitbook.io/summercms/"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/documentation.png" alt="documentation" /></a></td>
+          <td><h1><a href="https://summercms.gitbook.io/summercms/">Documentation</a></h1><br>Welcome to the Summer CMS developer documentation. It's a powerful, flexible platform for creating beautiful websites, blogs, landing pages, lightweight apps and emails.</td>
         </tr>
     </tbody>
 </table>
@@ -208,13 +208,13 @@ The Summer CMS takes privacy and user data seriously, we strongly believe in put
 
 ### General Data Protection Regulation (GDPR) 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/gdpr.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/gdpr.jpg"></p>
 
 The General Data Protection Regulation (GDPR) is one of the most wide-ranging pieces of legislation passed by the EU in recent memory. It was introduced to standardise data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
 
 ### ePrivacy Regulation 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/eprivacy.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/eprivacy.jpg"></p>
 
 The ePrivacy Regulation will complement the GDPR’s general rules on personal data processing by providing specific rules governing electronic communications.
 
@@ -226,7 +226,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### California Consumer Privacy Act (CCPA) 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/ccpa.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/ccpa.jpg"></p>
 
 The California Consumer Privacy Act (CCPA) is a law that allows any California consumer to demand to see all the information a company has saved on them, as well as a full list of all the third parties that data is shared with.
 
@@ -238,7 +238,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### Strong Customer Authentication (SCA) 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/sca.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/sca.png"></p>
 
 Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments and meet SCA requirements, you need to build additional authentication into your checkout flow.
 
@@ -246,7 +246,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### The Second Payment Services Directive (PSD2) 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/psd2.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/psd2.jpg"></p>
 
 The Payment Services Directive Two (PSD2) is a piece of legislation designed to force providers of payment services to improve customer authentication processes and to also bring in new regulation around third-party involvement.
 
@@ -254,7 +254,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### Federated Learning of Cohorts (FLoC) 🔔
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/floc.png"></p>
 
 FLoC enables ad selection without sharing the browsing behaviour of individual users. A site should be able to declare that it does not want to be included in the user's list of sites for cohort calculation. Summer CMS puts it's users privacy first and so sets the `opt-out` as the default, webmasters and users can then `opt-in`. This also passes GDPR/ePrivacy laws.
 
@@ -290,13 +290,13 @@ For example, suppose that owner.example owns a First-Party Set containing {membe
 
 ## Vanilla Code 🍦
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/vanilla.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/vanilla.jpg"></p>
 
 Vanilla often refers to **pure** or **plain**. So in terms of programming languages, it means either without the use of **3rd party libraries** or without the use of **frameworks**.
 
 The `core` files and `modules` in Summer CMS use `Laravel`, an open-source PHP web framework. However, all the styling, javascript and data interchange formats have been written using `vanilla` code. This makes upgrading the code **quick** and **simple** without the constraints of relying solely on a single library or framework! Plus reducing the code size and optimizing the performance by reducing the overheads of loading third-party libraries (such as jQuery as an example). Summer CMS treats all third-party libraries and frameworks as optional extras and developers are welcome to use any of them to enhance their websites and applications using Summer CMS.
 
-The [framework module](https://github.com/summer-cms/sc-framework-module) adds bridges and interconnects different frameworks to Summer CMS with ease to give a customized experience for each framework!
+The [framework module](https://github.com/summercms/sc-framework-module) adds bridges and interconnects different frameworks to Summer CMS with ease to give a customized experience for each framework!
 
 ## Naming Prefix ✒️
 
@@ -314,23 +314,23 @@ Summer CMS has been optimized to work with php `7.4.x` and `8.x` versions - we r
 
 ### PHP 7.4.x Install Instructions
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php74.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/php74.jpg"></p>
 
-- PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
+- PHP 7.4.x setup instructsions for Windows 10 found here: https://github.com/summercms/sc-security-module/blob/master/docs/installation/setup.md#install-php-7-on-windows-10
 
 ### PHP 8.x Install Instructions
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/php8.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/php8.png"></p>
 
 - [PHP 8.0 UPGRADE NOTES](https://github.com/php/php-src/blob/master/UPGRADING)
 
 - [Migrating from PHP 7.4.x to PHP 8.0.x](https://www.php.net/manual/en/migration80.php)
 
-- PHP 8.x setup instructsions found for Windows 10 here: https://github.com/summer-cms/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
+- PHP 8.x setup instructsions found for Windows 10 here: https://github.com/summercms/sc-security-module/blob/master/docs/installation/setup.md#install-php-8-on-windows-10
 
 ### Laravel Framework
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/laravel.png"></p>
 
 Version	| Release	| Bug Fixes Until	| Security Fixes Until
 ---|---|---|---
@@ -356,7 +356,7 @@ Version	| Release	| Bug Fixes Until	| Security Fixes Until
 
 [Laravel 8](https://laravel.com/docs/8.x/releases) continues the improvements made in Laravel 7.x by introducing Laravel Jetstream, model factory classes, migration squashing, job batching, improved rate limiting, queue improvements, dynamic Blade components, Tailwind pagination views, time testing helpers, improvements to `artisan serve`, event listener improvements, and a variety of other bug fixes and usability improvements.
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/laravel-versins.png"></p>
 
 As of Q2 2021, Laravel 9 LTS is coming soon. Though there is no mention of a min php version - we will be testing Laravel 9 LTS with php 7.4 and 8.x
 
@@ -434,7 +434,7 @@ Ignition before 2.5.2, as used in Laravel and other products, allows unauthentic
 
 ### Symfony
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/symfony-logo.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/symfony-logo.jpg"></p>
 
 #### Support
 
@@ -690,7 +690,7 @@ We welcome bug reports, false positive alert reports, evasions, usability issues
 
 Please include your installed version and the relevant portions of your audit log.
 
-False negative or common bypasses should [create an issue](https://github.com/summer-cms/sc-main/issues/new) so they can be addressed.
+False negative or common bypasses should [create an issue](https://github.com/summercms/sc-main/issues/new) so they can be addressed.
 
 Do this before submitting a vulnerability:
 
@@ -704,11 +704,11 @@ If in doubt, feel free to reach out to us!
 
 ## Code of Conduct 💯
 
-In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/summer-cms/sc-main/blob/master/CODE_OF_CONDUCT.md).
+In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/summercms/sc-main/blob/master/CODE_OF_CONDUCT.md).
 
 ## For Future 🔮
 
-Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/summer-cms/sc-main/projects) for a list of things to be done.
+Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/summercms/sc-main/projects) for a list of things to be done.
 
 ## Browser Support ✅
 
@@ -717,43 +717,43 @@ The legal module has been tested in the following browsers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
       9+
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
       ✖ (1)
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
       ✖ (2)
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
+      <img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
       3+
     </td>
   </tr>
@@ -765,7 +765,7 @@ The legal module has been tested in the following browsers:
 
 (2) Internet Explorer version 1-11, Summer CMS will not support due to only supporting `Evergreen` brwosers.
 
-For a full list of browser support with Summer CMS, see here: [Browser Support](https://github.com/summer-cms/sc-main/blob/main/docs/browser_support.md).
+For a full list of browser support with Summer CMS, see here: [Browser Support](https://github.com/summercms/sc-main/blob/main/docs/browser_support.md).
 
 ## Changelog 🏆
 
@@ -778,7 +778,7 @@ We are actively inviting new contributors! To start, please read the [contributi
 This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
 
 - Read the current content and help us fix any spelling mistakes or grammatical errors.
-- Choose an existing [issue](https://github.com/summer-cms/sc-legal-module/issues) on GitHub and submit a pull request to fix it.
+- Choose an existing [issue](https://github.com/summercms/sc-legal-module/issues) on GitHub and submit a pull request to fix it.
 - Open a new issue to report an opportunity for improvement.
 
 If you find any bugs in the code or have any improvements in mind then feel free to generate a pull request.
@@ -820,7 +820,7 @@ This legal module uses some PSR standards to be the most interoperable possible:
 
 We also suggest using Cross-browser testing provided by BrowserStack (*) where a real-browser can't be used in-house.
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/browser-stack.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser-stack.png"></p>
 
 ## PHP Coding Standards Fixer ⭕
 
@@ -866,7 +866,7 @@ $ composer test
 
 The Summer CMS and all modules use: [Semantic Versioning](https://semver.org/).
 
-<p align="center"><img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/semver.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-security-module/blob/master/src/assets/images/semver.png"></p>
 
 Semantic Versioning is a 3-component number in the format of `X.Y.Z` where:
 
@@ -900,4 +900,4 @@ Everyone is permitted to copy and distribute copies of Summer CMS, but changing 
 
 [⬆ back to top](#table-of-contents-)
 
-<p align="center"><img src="https://github.com/summer-cms/sc-main/blob/main/src/assets/images/luv.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/luv.png"></p>
