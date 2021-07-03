@@ -115,7 +115,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-user-interface-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/user-interface.svg" alt="user interface" /></a></td>
-          <td><h1><a href="https://github.com/summercms/sc-user-interface-module"><p>User Interface Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-user-interface-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-user-interface-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+          <td><h1><a href="https://github.com/summercms/sc-user-interface-module"><p>User Interface Module</a></h1><p>User interface, control panel, dashboards, widgets, backend themes, backend apps, system icons and fonts etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-user-interface-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-user-interface-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
             <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
@@ -158,8 +158,6 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 
 - **CDN Module** - 
-
-- **User Interface (UI) Module** - user interface, dashobards, widgets, themes, icons, fonts etc................... to do
 
 - **Performance Module** - 
 
