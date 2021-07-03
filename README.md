@@ -82,7 +82,7 @@ The Summer CMS platform is made up of the following components, the core, module
     <tbody>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-cdn-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/cdn-icon.svg" alt="cdn" /></a></td>
-            <td><h1><a href="https://github.com/summercms/sc-cdn-module">CDN Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-origin-trials-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-origin-trials-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+            <td><h1><a href="https://github.com/summercms/sc-cdn-module">CDN Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-cdn-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-cdn-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-developer-module"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/modules/developer.svg" alt="developer" /></a></td>
