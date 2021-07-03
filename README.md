@@ -151,7 +151,7 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - **CDN Module** - 
 
-- **User Interface (UX) Module** - .................. to do
+- **User Interface (UI) Module** - user interface, dashobards, widgets, themes, icons, fonts etc................... to do
 
 - **Performance Module** - 
 
