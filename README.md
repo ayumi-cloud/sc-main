@@ -118,23 +118,23 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
           <td><h1><a href="https://github.com/summercms/sc-user-interface-module"><p>User Interface Module</a></h1><p>User interface, layouts, control panel, dashboards, widgets, components, backend themes and apps, system icons and fonts etc.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-user-interface-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-user-interface-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/main/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/to-do.svg" alt="xxx" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/to-do.svg" alt="xxx" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/to-do.svg" alt="xxx" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/to-do.svg" alt="xxx" /></td>
             <td></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/browser/chrome_48x48.png" alt="Chrome" /></td>
+            <td align="center"><img src="https://github.com/summercms/sc-main/blob/main/src/assets/images/to-do.svg" alt="xxx" /></td>
             <td></td>
         </tr>
         <tr>
