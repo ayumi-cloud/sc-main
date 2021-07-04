@@ -1,0 +1,17 @@
+  
+.DS_Store
+.github/*
+.phpunit.result.cache
+.vscode
+assets/*
+build/*
+composer.lock
+docs/*
+Gruntfile.js
+humbug*
+node_modules/*
+package-lock.json
+package.json
+runner.log
+runner.xml
+vendor/*
