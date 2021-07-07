@@ -101,6 +101,15 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
             <td align="center"><a href="https://github.com/summercms/sc-origin-trials-module"><img src="https://github.com/summercms/sc-main/blob/master/src/assets/images/modules/origintrials.svg" alt="security" /></a></td>
             <td><h1><a href="https://github.com/summercms/sc-origin-trials-module">Origin Trials Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-origin-trials-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-origin-trials-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/master/src/assets/images/docs.png" width="101" height="20"></a></p></td>
         </tr>
+      
+      
+        <tr>
+            <td align="center"><a href="https://github.com/summercms/sc-origin-trials-module"><img src="https://github.com/summercms/sc-main/blob/master/src/assets/images/modules/origintrials.svg" alt="packages" /></a></td>
+            <td><h1><a href="https://github.com/summercms/sc-origin-trials-module">Package Module</a></h1><p>=== TO DO ===</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-origin-trials-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/summercms/sc-origin-trials-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/master/src/assets/images/docs.png" width="101" height="20"></a></p></td>
+        </tr>   
+      
+      
+      
         <tr>
             <td align="center"><a href="https://github.com/summercms/sc-parser-module"><img src="https://github.com/summercms/sc-main/blob/master/src/assets/images/modules/parser.svg" alt="parser" /></a></td>
           <td><h1><a href="https://github.com/summercms/sc-parser-module"><p>Parser Module</a></h1><p>The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment and is used by other Summer CMS modules and in conjunction with custom Summer CMS API's.</p><p><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/summercms/sc-parser-module"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/summercms/sc-parser-module"> <a href="https://summercms.gitbook.io/summercms/"><img alt="docs" src="https://github.com/summercms/sc-main/blob/master/src/assets/images/docs.png" width="101" height="20"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/summercms/sc-parser-module?include_prereleases"></p></td>
