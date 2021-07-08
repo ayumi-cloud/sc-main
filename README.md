@@ -159,10 +159,6 @@ EU-U.S. Privacy Shield Frameworks, GDPR, Guidelines for Law Enforcement, HIPAA, 
 
 - **Semantic Module** - Schema.org, JSON-LD, microformats, ontologies etc.
 
-
-
-- **CDN Module** - 
-
 - **Performance Module** - 
 
 - **Internalization Module** - 
